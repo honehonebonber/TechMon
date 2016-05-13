@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3F07E7CC1C47B803001F31D5"
-               BuildableName = "TechMon.app"
-               BlueprintName = "TechMon"
-               ReferencedContainer = "container:TechMon.xcodeproj">
+               BuildableName = "TechMondensetu.app"
+               BlueprintName = "TechMondensetu"
+               ReferencedContainer = "container:TechMondensetu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3F07E7E01C47B803001F31D5"
-               BuildableName = "TechMonTests.xctest"
-               BlueprintName = "TechMonTests"
-               ReferencedContainer = "container:TechMon.xcodeproj">
+               BuildableName = "TechMondensetu.xctest"
+               BlueprintName = "TechMondensetuTests"
+               ReferencedContainer = "container:TechMondensetu.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3F07E7EB1C47B803001F31D5"
-               BuildableName = "TechMonUITests.xctest"
-               BlueprintName = "TechMonUITests"
-               ReferencedContainer = "container:TechMon.xcodeproj">
+               BuildableName = "TechMondensetu.xctest"
+               BlueprintName = "TechMondensetuUITests"
+               ReferencedContainer = "container:TechMondensetu.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3F07E7CC1C47B803001F31D5"
-            BuildableName = "TechMon.app"
-            BlueprintName = "TechMon"
-            ReferencedContainer = "container:TechMon.xcodeproj">
+            BuildableName = "TechMondensetu.app"
+            BlueprintName = "TechMondensetu"
+            ReferencedContainer = "container:TechMondensetu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3F07E7CC1C47B803001F31D5"
-            BuildableName = "TechMon.app"
-            BlueprintName = "TechMon"
-            ReferencedContainer = "container:TechMon.xcodeproj">
+            BuildableName = "TechMondensetu.app"
+            BlueprintName = "TechMondensetu"
+            ReferencedContainer = "container:TechMondensetu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3F07E7CC1C47B803001F31D5"
-            BuildableName = "TechMon.app"
-            BlueprintName = "TechMon"
-            ReferencedContainer = "container:TechMon.xcodeproj">
+            BuildableName = "TechMondensetu.app"
+            BlueprintName = "TechMondensetu"
+            ReferencedContainer = "container:TechMondensetu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
